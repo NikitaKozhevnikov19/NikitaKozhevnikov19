@@ -1,6 +1,18 @@
-<h1>Привет, я <a href="(https://github.com/NikitaKozhevnikov19)" target="_blank">Никита</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3>Я  QA Engineer (Junior Automation, Java):sunglasses:</h3>
+<h1>Привет, я Никита <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/></h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200"/>
+</p>
+
+
+
+
+
+Я увлечён QA Automation. Являюсь инженером с опытом написания API и UI тестов на Java. 
+Люблю писать чистый код и изучать новые инструменты для автоматизации.
+
+
+### Я QA Engineer (Junior Automation, Java) :sunglasses:
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NikitaKozhevnikov19&show_icons=true&theme=tokyonight&hide_border=true)
@@ -25,6 +37,8 @@
 <img width="6%" title="Telegram" src="media/logo/Telegram.svg">
 <img width="5%" title="Jira" src="media/logo/Jira.svg">
 </p>
+
+
 
 
  ### Мои контакты:
