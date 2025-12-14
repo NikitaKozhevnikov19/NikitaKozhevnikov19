@@ -1,18 +1,9 @@
 <h1>Привет, я Никита <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/></h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200"/>
-</p>
+<h3>Junior QA Automation Engineer | Java | API & UI Testing 😎</h3>
 
 
 
-
-
-Я увлечён QA Automation. Являюсь инженером с опытом написания API и UI тестов на Java. 
-Люблю писать чистый код и изучать новые инструменты для автоматизации.
-
-
-### Я QA Engineer (Junior Automation, Java) :sunglasses:
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=NikitaKozhevnikov19&show_icons=true&theme=tokyonight&hide_border=true)
