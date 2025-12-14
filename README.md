@@ -29,5 +29,5 @@
 
  ### Мои контакты:
 
-+  Email - kozherka2@mail.ru
++  Email - kozherka2@gmail.com
 +  Telegram - https://t.me/kozherka
