@@ -3,8 +3,10 @@
 <h3>Я  QA Engineer (Junior Automation, Java):sunglasses:</h3>
 
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NikitaKozhevnikov19&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdelKurysheva&show_icons=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaKozhevnikov19&layout=compact)
+
 
 
  ### Мои инструменты и технологии:
@@ -23,4 +25,9 @@
 <img width="6%" title="Telegram" src="media/logo/Telegram.svg">
 <img width="5%" title="Jira" src="media/logo/Jira.svg">
 </p>
- 
+
+
+ ### Мои контакты:
+
++  Email - kozherka2@mail.ru
++  Telegram - https://t.me/kozherka
