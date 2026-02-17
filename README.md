@@ -36,7 +36,10 @@
 - **UI (Selenide):** Паттерн **Page Object** (без статики), управление конфигурациями через **Owner** и System Properties.
  **Mobile (Appium):** Автоматизация мобильного приложения под **Android**. Поддержка локального запуска и облачного **BrowserStack**.
 - **Infrastructure:** Полная интеграция с **Jenkins**, запуск в **Selenoid**, параметризация окружений.
-- **Reporting:** Продвинутая отчетность **Allure** (видео, скриншоты, логи браузера, тегирование `@Epic/@Feature`).
+- - **Reporting & TMS:** 
+  - Продвинутая отчетность в **Allure Report** (видео, скриншоты, логи).
+  - Интеграция с **Allure TestOps** и **Jira** для управления покрытием.
+  - Настроены **Telegram-notifications**: мгновенные уведомления о результатах прогона тестов в Jenkins.
 
 #### 🔌 [API Automation Framework (Reqres.in)](https://github.com/NikitaKozhevnikov19/ReqRes-API-Automation-Framework)
 *Масштабируемый фреймворк для тестирования REST API с упором на чистый код.*
