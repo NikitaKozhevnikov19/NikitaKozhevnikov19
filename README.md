@@ -34,6 +34,34 @@
 </p>
 
 
+### 🚀 Мои главные проекты (Дипломная работа):
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 MTS Live (Web + Mobile)</h4>
+      <p>Комплексный проект по автоматизации билетно-развлекательного сервиса.</p>
+      <ul>
+        <li><b>UI:</b> Java + Selenide + PageObject</li>
+        <li><b>Mobile:</b> Appium (Android/iOS)</li>
+        <li><b>Manual:</b> Разработаны чек-листы и тест-кейсы</li>
+      </ul>
+      <a href="https://github.com/NikitaKozhevnikov19/mts-live-automation-framework.git">Посмотреть проект →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📡 API Testing Framework (Reqres)</h4>
+      <p>Проект с фокусом на глубокую автоматизацию бэкенда.</p>
+      <ul>
+        <li><b>Rest-Assured:</b> Спецификации запросов/ответов</li>
+        <li><b>Models:</b> Lombok, десериализация объектов</li>
+        <li><b>Reporting:</b> Custom Allure listeners</li>
+      </ul>
+      <a href="https://github.com/NikitaKozhevnikov19/ReqRes-API-Automation-Framework.git">Посмотреть проект →</a>
+    </td>
+  </tr>
+</table>
+
+
 
 
  ### Мои контакты:
