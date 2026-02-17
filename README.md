@@ -1,6 +1,7 @@
 <h1>Привет, я Никита <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/></h1>
 
-<h3>Junior QA Automation Engineer | Java | API & UI Testing 😎</h3>
+<h3>Junior QA Automation Engineer | Java | Web • Mobile • API 🚀📱</h3>
+
 
 
 
