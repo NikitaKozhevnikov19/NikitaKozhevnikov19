@@ -27,6 +27,10 @@
 <img width="6%" title="Jenkins" src="media/logo/Jenkins.svg">
 <img width="6%" title="Telegram" src="media/logo/Telegram.svg">
 <img width="5%" title="Jira" src="media/logo/Jira.svg">
+<img width="5%" title="Jira" src="media/logo/RestAssured.png">
+<img width="5%" title="Jira" src="media/logo/Appium.png">
+<img width="5%" title="Jira" src="media/logo/Browserstack.png">
+<img width="5%" title="Jira" src="media/logo/lombok.png">
 </p>
 
 
