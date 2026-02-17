@@ -5,13 +5,6 @@
 
 
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NikitaKozhevnikov19&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaKozhevnikov19&layout=compact)
-
-
-
  ### Мои инструменты и технологии:
 
 <p align="center">
