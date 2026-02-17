@@ -27,39 +27,30 @@
 <img width="6%" title="Jenkins" src="media/logo/Jenkins.svg">
 <img width="6%" title="Telegram" src="media/logo/Telegram.svg">
 <img width="5%" title="Jira" src="media/logo/Jira.svg">
-<img width="5%" title="Jira" src="media/logo/RestAssured.png">
-<img width="5%" title="Jira" src="media/logo/Appium.png">
-<img width="5%" title="Jira" src="media/logo/Browserstack.png">
-<img width="5%" title="Jira" src="media/logo/lombok.png">
+<img width="5%" title="RestAssured" src="media/logo/RestAssured.png">
+<img width="5%" title="Appium" src="media/logo/Appium.png">
+<img width="5%" title="Browserstack" src="media/logo/Browserstack.png">
+<img width="5%" title="lombok" src="media/logo/lombok.png">
 </p>
 
 
-### 🚀 Мои главные проекты (Дипломная работа):
+### 🚀 Проекты (Дипломная работа)
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌐 MTS Live (Web + Mobile)</h4>
-      <p>Комплексный проект по автоматизации билетно-развлекательного сервиса.</p>
-      <ul>
-        <li><b>UI:</b> Java + Selenide + PageObject</li>
-        <li><b>Mobile:</b> Appium (Android/iOS)</li>
-        <li><b>Manual:</b> Разработаны чек-листы и тест-кейсы</li>
-      </ul>
-      <a href="https://github.com/NikitaKozhevnikov19/mts-live-automation-framework.git">Посмотреть проект →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📡 API Testing Framework (Reqres)</h4>
-      <p>Проект с фокусом на глубокую автоматизацию бэкенда.</p>
-      <ul>
-        <li><b>Rest-Assured:</b> Спецификации запросов/ответов</li>
-        <li><b>Models:</b> Lombok, десериализация объектов</li>
-        <li><b>Reporting:</b> Custom Allure listeners</li>
-      </ul>
-      <a href="https://github.com/NikitaKozhevnikov19/ReqRes-API-Automation-Framework.git">Посмотреть проект →</a>
-    </td>
-  </tr>
-</table>
+#### 🌐 [MTS Live: Web & Mobile Automation Framework](https://github.com/NikitaKozhevnikov19/mts-live-automation-framework)
+*Единый фреймворк для тестирования крупного сервиса покупки билетов.*
+
+- **UI (Selenide):** Паттерн **Page Object** (без статики), управление конфигурациями через **Owner** и System Properties.
+- **Mobile (Appium):** Кроссплатформенное тестирование (Android/iOS). Локальный запуск и облачный **BrowserStack**.
+- **Infrastructure:** Полная интеграция с **Jenkins**, запуск в **Selenoid**, параметризация окружений.
+- **Reporting:** Продвинутая отчетность **Allure** (видео, скриншоты, логи браузера, тегирование `@Epic/@Feature`).
+
+#### 🔌 [API Automation Framework (Reqres.in)](https://github.com/NikitaKozhevnikov19/ReqRes-API-Automation-Framework)
+*Масштабируемый фреймворк для тестирования REST API с упором на чистый код.*
+
+- **Architecture:** Многослойная архитектура (**Layered Architecture**) с централизованными спецификациями (**ReqresSpecs**).
+- **Data Handling:** Использование DTO-моделей для сериализации/десериализации (**Lombok + Jackson**).
+- **Test Scenarios:** Покрытие CRUD-операций (Users) и логики авторизации (Auth) с негативными сценариями.
+- **Reporting:** Кастомный **Allure Rest-Assured Listener** с использованием `.ftl` шаблонов (красивое отображение запросов).
 
 
 
